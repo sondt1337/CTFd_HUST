@@ -1,0 +1,14 @@
+CTFd/themes/**/vendor/
+CTFd/themes/core-beta/**/*
+*.html
+*.njk
+*.png
+*.svg
+*.ico
+*.ai
+*.svg
+*.mp3
+*.webm
+.pytest_cache
+venv*
+.venv*
